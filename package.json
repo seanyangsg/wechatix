@@ -4,7 +4,8 @@
   "description": "wechat bot",
   "main": "app.js",
   "scripts": {
-    "test": "no yet"
+    "test": "no yet",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",

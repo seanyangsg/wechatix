@@ -1,0 +1,23 @@
+{
+  "name": "wechatix",
+  "version": "1.0.0",
+  "description": "wechat bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "no yet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanyangsg/wechatix.git"
+  },
+  "keywords": [
+    "wechat",
+    "bot"
+  ],
+  "author": "seanyang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seanyangsg/wechatix/issues"
+  },
+  "homepage": "https://github.com/seanyangsg/wechatix#readme"
+}

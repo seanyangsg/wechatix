@@ -3,7 +3,7 @@ var config = {
   token: 'seanyang',
   appid: 'wx898c165ad65dfcaf',
   encodingAESKey: '48cd2a939ac3d0656d8a8886e96f6c73',
-  checkSignature: true // 可选，默认为true。由于微信公众平台接口调试工具在明文模式下不发送签名，所以如要使用该测试工具，请将其设置为false
+  checkSignature: false // 可选，默认为true。由于微信公众平台接口调试工具在明文模式下不发送签名，所以如要使用该测试工具，请将其设置为false
 };
 
 app.use(express.query());
